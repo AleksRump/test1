@@ -8,6 +8,6 @@ describe('Demo test', function () {
         await $('button.mat-raised-button.mat-primary').click()
         //browser.keys('Enter')
 
-        browser.pause(1500)
+        browser.pause(1000)
     })
 })
